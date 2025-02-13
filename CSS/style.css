@@ -1,0 +1,26 @@
+.weather-info{
+    background-color: rgb(190, 229, 247);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0010px rgba(116, 255, 2, 0.1);
+    width: 300px;
+    text-align: center;
+    margin: 50px auto;
+}
+h1{
+    front: size 24px;
+    color:rgb(255, 0, 0);
+    margin-bottom: 20px;
+    text-align: center;
+}
+.search-box{
+    margin-bottom: 20px;
+}
+#search-btn{
+    padding: 10px;
+    cursor: pointer;
+    background-color: aqua;
+    color:white;
+    border: none;
+    border-radius: 4px;
+}
